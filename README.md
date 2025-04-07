@@ -23,5 +23,6 @@ Simple camera calibration demo with python
 ---
 
 ## Lens Distortion Correction
-- ![Original Image](data/chessboard_02.png)
-- ![Rectified Image](data/chessborad_01.png)
+![Original Image](data/chessboard_02.png)
+![Rectified Image](data/chessborad_01.png)
+아이폰 17 로 녹화했다.
